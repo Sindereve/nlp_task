@@ -1,0 +1,7 @@
+.venv
+__pycache__
+.vscode
+
+data
+*.bz2
+02/models
